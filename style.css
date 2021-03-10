@@ -34,7 +34,7 @@ html{
 }
 
 .container-textos{
-    width: 30%;
+    width: 100%;
     padding: 0;
     margin-left: 10%;
     margin-top: 3%;
@@ -47,14 +47,6 @@ html{
 }
 
 img{
-    width: 100%;
-}
-
-.margen-h2{
-    width: 100%;
-}
-
-.margen-p{
     width: 100%;
 }
 
